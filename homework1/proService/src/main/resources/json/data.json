@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Petya",
+    "surname": "Horitonov",
+    "age": 30,
+    "salary": 50000,
+    "department": "IT",
+    "position": "Front-end developer"
+  },
+  {
+    "id": 2,
+    "name": "Petr",
+    "surname": "Petrov",
+    "age": 35,
+    "salary": 60000,
+    "department": "HR",
+    "position": "HR-manager"
+  },
+  {
+    "id": 3,
+    "name": "Kseniya",
+    "surname": "Savelieva",
+    "age": 28,
+    "salary": 55000,
+    "department": "Management",
+    "position": "Producer"
+  }
+]

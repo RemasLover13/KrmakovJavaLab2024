@@ -1,0 +1,15 @@
+#POST http://localhost:8081/employees
+#Content-Type: application/json
+#
+#{
+#  "name": "Vlad",
+#  "surname": "Saveliev",
+#  "age": 40,
+#  "salary": 500,
+#  "department": "IT",
+#  "position": "TeamLead"
+#}
+
+GET  http://localhost:8081/employees
+Content-Type: application/json
+
